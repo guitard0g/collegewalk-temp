@@ -1,8 +1,6 @@
 {
-  "name": "Start on Heroku: Node.js",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/heroku/node-js-getting-started",
-  "logo": "http://node-js-sample.herokuapp.com/node.svg",
-  "keywords": ["node", "express", "heroku"],
-  "image": "heroku/nodejs"
+  "name": "College Walk Temporary Landing Page",
+  "description": "A temporary landing page for collecting emails in a reddis dictionary",
+  "repository": "https://github.com/jjrylearn/collegewalk-temp.git",
+  "keywords": ["node", "express", "CollegeWalk"],
 }
